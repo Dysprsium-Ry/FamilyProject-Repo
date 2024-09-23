@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "092024FamilyProject/1.0.0": {
+        "runtime": {
+          "092024FamilyProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "092024FamilyProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\bin\Debug\net8.0\092024FamilyProject.exe
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\bin\Debug\net8.0\092024FamilyProject.deps.json
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\bin\Debug\net8.0\092024FamilyProject.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\bin\Debug\net8.0\092024FamilyProject.dll
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\bin\Debug\net8.0\092024FamilyProject.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.dll
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\refint\092024FamilyProject.dll
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\092024FamilyProject.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\week3REPO\092024FamilyProject\obj\Debug\net8.0\ref\092024FamilyProject.dll
